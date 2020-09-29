@@ -11,6 +11,7 @@ public class Test {
         System.out.println(newStr);
 
         int a = 3;
+        System.out.println(3*a + "New number!");
         
     }
 }
