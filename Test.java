@@ -13,7 +13,6 @@ public class Test {
         int a = 3;
         System.out.println(3*a + "New number!");
         
-        String secondStr = "Hi Dr. Z";
         
     }
 }
