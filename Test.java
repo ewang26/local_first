@@ -9,8 +9,6 @@ public class Test {
 
         String newStr = "abc and def";
         System.out.println(newStr);
-
-        int a = 3;
         
     }
 }
