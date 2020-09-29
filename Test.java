@@ -6,6 +6,9 @@ public class Test {
         int y = 8;
         System.out.println(x+y);
         int z = 1;
+
         String newStr = "abc and def";
+        System.out.println(newStr);
+        
     }
 }
